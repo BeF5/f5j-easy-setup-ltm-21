@@ -1,9 +1,9 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-F5 BIG-IP Local Traffic Manager (LTM) v17.5 簡単セットアップガイド
+F5 BIG-IP Local Traffic Manager (LTM) v21.1 簡単セットアップガイド
 ==============================================
-最終更新日: 2025年4月11日
+最終更新日: 2026年8月31日
 
 
 はじめに
@@ -11,7 +11,7 @@ F5 BIG-IP Local Traffic Manager (LTM) v17.5 簡単セットアップガイド
 このページでは、これらのオフィシャルなドキュメントの補足となる資料 や 複数の機能を組合せてソリューションを実現する方法をご紹介いたします。
 F5のオフィシャルなドキュメントはこちらにございます。
 
-- AskF5: https://support.f5.com/csp/home
+- MyF5: https://my.f5.com/manage/s/
 - F5 Cloud Docs: https://clouddocs.f5.com/
 - F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
 
