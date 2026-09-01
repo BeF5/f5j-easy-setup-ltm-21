@@ -55,18 +55,21 @@ UCSのリストア
 .. figure:: images/mod9-5.png
    :scale: 20%
    :align: center
+   :width: 70%
 
 - アップロードしたUCSファイルをクリックします。
 
 .. figure:: images/mod9-6.png
    :scale: 20%
    :align: center
+   :width: 70%
 
 - 「Restore」ボタンを押します。
 
 .. figure:: images/mod9-7.png
    :scale: 20%
    :align: center
+   :width: 70%
 
 - 以下の状態のときは、「OK」ボタンを押さず、しばらく待ちます。
 
