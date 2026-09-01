@@ -67,10 +67,10 @@
    :scale: 20%
    :align: center
 
-- ホスト名、タイムゾーン、Rootのパスワードを設定します。「Next」ボタンを押します。
+- DHCP、ホスト名、タイムゾーン、Rootのパスワードを設定します。「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-10.png
-   :scale: 20%
+   :scale: 100%
    :align: center
 
 .. note::
