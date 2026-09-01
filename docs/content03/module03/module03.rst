@@ -70,7 +70,8 @@
 - DHCP、ホスト名、タイムゾーン、Rootのパスワードを設定します。「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-10.png
-   :scale: 100%
+   :scale: 20%
+   :width: 80%
    :align: center
 
 .. note::
