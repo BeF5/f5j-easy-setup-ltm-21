@@ -53,24 +53,21 @@ UCSのリストア
 - 「System」 → 「Archives」 で表示された画面右上の「Upload」ボタンを押します。保存しておいたUCSファイルを指定して、Uploadします。
 
 .. figure:: images/mod9-5.png
-   :scale: 20%
-   :width: 70%
+   :width: 80%
    :align: center
   
 
 - アップロードしたUCSファイルをクリックします。
 
 .. figure:: images/mod9-6.png
-   :scale: 20%
-   :width: 70%
+   :width: 80%
    :align: center
 
 
 - 「Restore」ボタンを押します。
 
 .. figure:: images/mod9-7.png
-   :scale: 20%
-   :width: 70%
+   :width: 80%
    :align: center
  
 
